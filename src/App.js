@@ -5,7 +5,7 @@ import { Layout } from './layout';
 
 export function App() {
   const numbers = 890;
-  const number = 990;
+  const number = 90;
 
   const string = "hello"
 
